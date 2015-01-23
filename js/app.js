@@ -19,6 +19,5 @@ require(['jquery', 'underscore', 'backbone', 'views/calculatorView'],
 function($, _, Backbone, calculatorView) {
     $(function() {
         new calculatorView();
-
     })
 });
